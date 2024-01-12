@@ -4,4 +4,5 @@
 
 # Learn more from ready-to-use templates: https://www.gitpod.io/docs/introduction/getting-started/quickstart
 
-image: openjdk:21-slim-bullseye
+image: 
+  file: .gitpod.Dockerfile
