@@ -17,6 +17,9 @@ package dev.morling.onebrc;
 
 import static java.util.stream.Collectors.*;
 
+// calculate relative performance
+// on gitpod: (avg-run-time / 83.7%) * (1bill/run-size) -> ~benchmark
+
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
